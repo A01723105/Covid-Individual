@@ -1,5 +1,6 @@
-   streamlit>=1.40
-   pandas
-   plotly
-   matplotlib
-   openpyxl
+streamlit>=1.40
+pandas
+plotly
+matplotlib
+seaborn
+openpyxl
